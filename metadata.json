@@ -1,0 +1,7 @@
+{
+  "name": "NexusScroll - Experiencia Inmersiva",
+  "description": "Un sitio web dinámico con animaciones de scroll avanzadas, efectos de paralaje y un asistente de IA integrado para explorar el contenido.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
